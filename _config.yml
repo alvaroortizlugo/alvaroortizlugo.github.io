@@ -9,7 +9,7 @@ version: 2
 name: Alvaro Ortiz-Lugo
 title: PhD in Applied Mathematics. 
 email: alvaroortizlugo@gmail.com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -22,7 +22,7 @@ twitter_username: AlvaroOrtizLugo
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: Dr Alvaro Ortiz Lugo
+linkedin_username: AlvaroOrtizLugo
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
